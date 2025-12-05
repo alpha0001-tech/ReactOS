@@ -1,0 +1,5 @@
+{
+  "name": "ReactOS",
+  "description": "A fully interactive, high-fidelity macOS simulation built with React and Tailwind CSS, featuring a functional desktop environment, window management, and an AI-powered assistant.",
+  "requestFramePermissions": []
+}
